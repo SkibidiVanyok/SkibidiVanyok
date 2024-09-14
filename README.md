@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/SkibidiVanyok/SkibidiVanyok/blob/main/7b8a10e7b9b885de3afd03ec39cdb0c314c5c6b0b66e98051ca460a6944963ba.gif" alt="The Unlimeted" width="520"/>
+<img src="https://github.com/SkibidiVanyok/SkibidiVanyok/blob/main/7b8a10e7b9b885de3afd03ec39cdb0c314c5c6b0b66e98051ca460a6944963ba.gif" alt="The Unlimeted" width="720"/>
 <!--
 **SkibidiVanyok/SkibidiVanyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
